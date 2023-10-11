@@ -1,0 +1,22 @@
+html {
+    scroll-behavior: smooth;
+}
+body {
+    background: rgb(226, 215, 201);
+    }
+ header, nav,section, footer {
+    background-color: rgb(212, 177, 133);
+    border-style: 1;
+    margin: 10px;
+    width: 90%;
+    padding: 20px;
+    display: block;
+    border-radius: 60px;
+ }  
+ header {
+    background-image: linear-gradient() rgb(78, 55, 41), rgb(201, 133, 78) url();
+ }
+
+ a {
+    text-decoration: none;
+ }
